@@ -9,6 +9,6 @@
 - Through hole diodes for easier assembly
 - 6.25u or 2u x 1.25u x 3u support
 
-# Notices
+# Notice
 - Reset button on the PCB is NOT THE SAME AS OTHER GH60 BOARDS
 - I AM NOT RESPONSIBLE FOR WHETHER THIS BOARD WORKS OR NOT ONCE PRODUCED 
