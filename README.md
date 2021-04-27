@@ -1,4 +1,4 @@
-# hot65
+# hot65 (WIP)
 65% keyboard with 3 split spacebar support and MX, Alps, and Kailh socket compatability.
 
 # Features
@@ -8,7 +8,3 @@
 - Kailh Socket, MX switch, and Alps compatibility
 - Through hole diodes for easier assembly
 - 6.25u or 2u x 1.25u x 3u support
-
-# Notice
-- Reset button on the PCB is NOT THE SAME AS OTHER GH60 BOARDS
-- I AM NOT RESPONSIBLE FOR WHETHER THIS BOARD WORKS OR NOT ONCE PRODUCED 
