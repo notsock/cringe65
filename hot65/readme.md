@@ -2,11 +2,7 @@
 
 ![hot65](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
-
-* Keyboard Maintainer: [notsocok](https://github.com/yourusername)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+*MX/Alps/Kailh Socket 65% board*
 
 Make example for this keyboard (after setting up your build environment):
 
