@@ -1,7 +1,5 @@
 # hot65
 
-![hot65](imgur.com image replace me!)
-
 *MX/Alps/Kailh Socket 65% board*
 
 Make example for this keyboard (after setting up your build environment):
