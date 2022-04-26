@@ -1,6 +1,8 @@
 # cringe65
 65% keyboard with 3 split spacebar support and MX, Alps, and Kailh socket compatability.
 
+Name comes from the fact that i do not like the keyboard but i couldn't care to change it since i already made it lol
+
 # Features
 - USBLC6-2SC6 for ESD protection
 - USB Type C
